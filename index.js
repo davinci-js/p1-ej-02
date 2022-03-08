@@ -1,6 +1,6 @@
 "use strict";
 
-function click() {
+function clicked() {
 
   /* Obtiene la categoria del sueldo */
   let categoria = parseInt(document.getElementById("categoria").value);
@@ -10,6 +10,3 @@ function click() {
   /* TODO */
   
 }
-
-/* Llama la funcion click al clickear del boton */
-document.getElementById("button").addEventListener("click", click);
