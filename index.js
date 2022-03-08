@@ -2,10 +2,10 @@
 
 function click() {
 
-  /* Obtiene el sueldo basico */
-  let sueldo = parseInt(document.getElementById("sueldo").value);
+  /* Obtiene la categoria del sueldo */
+  let categoria = parseInt(document.getElementById("categoria").value);
   /* Obtiene la categoria */
-  let categoria = document.getElementById("categoria").value;
+  let subcategoria = document.getElementById("subcategoria").value;
 
   /* TODO */
   
