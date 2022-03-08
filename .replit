@@ -1,0 +1,4 @@
+language = "html"
+run = ""
+
+entrypoint = "index.html"
