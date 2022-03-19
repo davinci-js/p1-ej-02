@@ -13,3 +13,17 @@
   - Rango `inicial`: entre u$s 1500 inclusive y u$s 3000 inclusive
   - Rango `intermedio`: entre u$s 3000 exclusive y u$s 4000 inclusive
   - Rango `avanzado`: si supera los u$s 4000
+
+## Entrega
+
+- Clonar este repositorio localmente
+- Crear un repositorio personal con el nombre `dw-p1-02`
+- Modificar este `README.md` con este contenido:
+
+```markdown
+### Alumno: ...
+
+#### Comision: ...
+```
+
+- Subir los archivos `index.html`, `index.js` y `README.md`
